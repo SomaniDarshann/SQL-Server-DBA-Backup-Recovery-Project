@@ -1,0 +1,3 @@
+Full Backup → Daily  
+Diff Backup → Every 4 Hours  
+Log Backup → Every 15 Minutes  
