@@ -1,0 +1,5 @@
+Step 1: Restore Full Backup  
+Step 2: Restore Differential Backup  
+Step 3: Restore Transaction Logs  
+Step 4: Use Timeline for Point-in-Time Recovery  
+Step 5: Validate data consistency  
