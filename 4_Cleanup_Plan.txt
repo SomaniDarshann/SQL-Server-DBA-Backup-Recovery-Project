@@ -1,0 +1,4 @@
+Cleanup .bak → Full + Diff  
+Cleanup .trn → Logs  
+Retention → 7 Days  
+Schedule → Daily 2:00 AM 
